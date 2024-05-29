@@ -55,3 +55,9 @@ Hard disk space: 3.1 GB or more of available hard disk space for 64-bit installa
 Monitor resolution: 1024 x 768 display (1280x800 recommended) with 16-bit color and 512 MB or more of dedicated VRAM; 2 GB is recommended
 
 Graphics processor acceleration requirements: OpenGL 2.0-capable system
+
+
+
+# Cons
+
+AI Genarate doesn't work.
