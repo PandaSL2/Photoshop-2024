@@ -18,17 +18,29 @@ Frame Tool for easy masking
 Content-Aware Fill reimagined
 
 New multiple undo mode
+
 Usability improvements
+
 Transform proportionally by default
+
 Prevent accidental panel moves with Lock Workspace
+
 Live blend mode preview
+
 Symmetry mode
+
 Color Wheel to choose colors
+
 Improved in-app learning
+
 Preference to increase UI size
+
 Support for Southeast Asian scripts
+
 Modernized compositing engine
-System Requirements and Technical Details
+
+# System Requirements and Technical Details
+
 Processor: Intel or AMD processor with 64-bit support; 2 GHz or faster processor
 Operating system: Windows 10 or later
 RAM: 2 GB or more of RAM (8 GB recommended)
