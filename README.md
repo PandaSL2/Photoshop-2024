@@ -8,6 +8,8 @@ https://drive.google.com/file/d/1oU6HzQasvW0J8fFS7OYoO1xpEDA4UlYX/view?usp=shari
 
 
 
+
+
 Free download: Adobe Photoshop contains the most advanced tools for working with images and new opportunities to realize creative ideas that significantly improve performance. Edit images with exceptional accuracy and use new intuitive tools and workflows for creating three-dimensional graphics, two-dimensional projects, and films.
 
 Draw and paint whatever you dream up with tools designed especially for illustrators. Paint in perfectly symmetrical patterns. Get polished looks with stroke smoothing. And create with pencils, pens, markers, and brushes that feel real — including more than 1,000 from celebrated illustrator Kyle T. Webster.
