@@ -59,4 +59,4 @@ Graphics processor acceleration requirements: OpenGL 2.0-capable system
 
 # Cons
 
-AI Genarate doesn't work.
+AI Generate doesn't work.
